@@ -1,0 +1,36 @@
+.sub {
+    width: 500px;
+    height: 400px;
+  
+    margin-left: 34%;
+  
+    justify-content: center;
+    display: inline-block;
+  
+    border: 1px solid #0fe456;
+    border-radius: 10px;
+  }
+  .subz {
+    text-align: center;
+  }
+  input {
+    background-color: aqua;
+    width: 490px;
+    margin-left: 2px;
+  }
+  h6 {
+    size: 5px;
+    color: black;
+  }
+  .img {
+    align-content: center;
+    width: 300px;
+    margin-left: 150px;
+  
+    height: 300px;
+  }
+  button {
+    margin-top: 30px;
+    background-color: green;
+    width: 500px;
+  }
